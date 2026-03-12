@@ -39,16 +39,16 @@ This project is built with:
 ---
 
 ## 📂 Project Structure
-SmartFlow
-│
-├── src/ → Main source code
-├── public/ → Static assets
-├── index.html → Entry HTML file
-├── package.json → Project dependencies
-├── tailwind.config.ts → Tailwind configuration
-├── vite.config.ts → Vite configuration
-└── README.md → Project documentation
 
+SmartFlow<br>
+│<br>
+├── src/ → Main source code<br>
+├── public/ → Static assets<br>
+├── index.html → Entry HTML file<br>
+├── package.json → Project dependencies<br>
+├── tailwind.config.ts → Tailwind configuration<br>
+├── vite.config.ts → Vite configuration<br>
+└── README.md → Project documentation
 ---
 
 ## ⚙️ Getting Started
