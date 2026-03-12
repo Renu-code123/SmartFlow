@@ -39,7 +39,6 @@ This project is built with:
 ---
 
 ## 📂 Project Structure
-
 SmartFlow
 │
 ├── src/ → Main source code
